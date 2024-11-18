@@ -9,7 +9,6 @@ from datetime import datetime
 import threading
 import pyperclip
 import os
-import yaml
 from urllib.parse import quote
 
 # 设置主题和颜色模式

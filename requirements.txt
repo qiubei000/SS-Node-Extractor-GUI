@@ -1,0 +1,21 @@
+# GUI Dependencies
+customtkinter>=5.2.2
+tkinter
+
+# Network and Data Processing
+requests>=2.31.0
+pyaes>=1.6.1
+pyperclip>=1.8.2
+
+# Data Formats
+PyYAML>=6.0.1
+
+# Optional - For Building Executables
+# pyinstaller>=6.5.0
+
+# Project Metadata
+name=ss-node-extractor
+version=1.0.0
+description=A modern GUI tool for extracting and managing SS nodes
+author=Anonymous
+python_requires=>=3.6

@@ -12,8 +12,8 @@ import os
 from urllib.parse import quote
 
 # 设置主题和颜色模式
-ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+ctk.set_appearance_mode("System")
+ctk.set_default_color_theme("dark-blue")
 
 class SSExtractorGUI:
     def __init__(self):
